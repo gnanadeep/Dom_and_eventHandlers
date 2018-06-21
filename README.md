@@ -1,6 +1,6 @@
 # Dom_and_eventHandlers
 
-Code Displays 
+Code Displays <br /> 
   Browser information <br />
-  Screen Information
+  Screen Information <br />
   displays just the time part of the current time in local time format
